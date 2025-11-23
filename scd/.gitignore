@@ -1,0 +1,28 @@
+# Node / dev
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# PHP / WordPress / exports
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/uploads/
+wp-content/plugins/*/cache/
+wp-content/plugins/*/vendor/
+wp-content/plugins/*/node_modules/
+wp-content/plugins/*/logs/
+
+# Local environment / IDE
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Database / build / media
+*.sqlite
+*.sql
+/data/
+/uploads/
+/media/
