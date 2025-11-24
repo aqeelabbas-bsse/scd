@@ -968,7 +968,7 @@ a.product_type_simple:hover {
 				</div>
 				<div class="elementor-element elementor-element-2c811db3 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="2c811db3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><a href="./../index.html">HOME</a></p><p><a href="./../our-journey/index.html">OUR JOURNEY</a></p><p><a href="./../wander-stays/index.html">WANDER STAYS</a></p><p><a href="./../testimonials/index.html">TESTIMONIALS</a></p><p><a href="./index.html">CONTACT US</a></p>								</div>
+									<p><a href="./../index.php">HOME</a></p><p><a href="./../wander-stays/index.html">WANDER STAYS</a></p><p><a href="./index.php">CONTACT US</a></p>								</div>
 				</div>
 					</div>
 		</div>
@@ -1033,7 +1033,7 @@ a.product_type_simple:hover {
 
   <div style="color: #7A7A7A;">
     Developed by 
-    <a href="https://ataraxydevelopers.com/" target="_blank" style="color: #2EA5B4; text-decoration: none;">Ataraxy Developers</a>
+    <a href="#" target="_blank" style="color: #2EA5B4; text-decoration: none;">Abdullah & Aqeel</a>
   </div>
 
   <div>
