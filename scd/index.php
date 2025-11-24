@@ -1,6 +1,9 @@
 <?php
-require_once 'db.php';   // same folder me db.php hai
+// 1) SESSION ALWAYS FIRST
 session_start();
+
+// 2) SINGLETON DB CONNECTION (db.php me Database class bani hui hai)
+require_once 'db.php';   // same folder me db.php hai
 
 /**
  * Small helper: JS alert + back
@@ -12,12 +15,6 @@ function js_back($msg){
           </script>";
     exit;
 }
-
-/**
- * Mysqli ko exceptions throw karne do,
- * taake hum try/catch se handle kar saken.
- */
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
 try {
 
@@ -156,8 +153,7 @@ try {
                 js_back('Phone number must contain only digits');
             }
 
-            // 4) Travel location -> ab koi validation nahi (free text)
-            // sirf trim kiya hua value DB mein save ho jayega.
+            // 4) Travel location -> free text (no regex)
 
             // ---- DB INSERT ----
             $stmt = $conn->prepare("
