@@ -1057,25 +1057,25 @@ a.product_type_simple:hover {
     <form class="wanderlust-contact-form" method="post" action="index.php#plan-form">
         <!-- hidden field, taake baad me PHP se pata chale kaunsa form submit hua -->
         <input type="hidden" name="form_name" value="home_plan_form">
-
+<br>
         <div class="form-row">
             <label for="full_name">Full Name <span style="color:#e63946;">*</span></label>
-            <input type="text" id="full_name" name="full_name" placeholder="Enter your full name" required>
+            <input type="text" id="full_name" name="full_name" placeholder="Enter your full name" required><br>
         </div>
 
         <div class="form-row">
             <label for="email">Email Address <span style="color:#e63946;">*</span></label>
-            <input type="email" id="email" name="email" placeholder="example@email.com" required>
+            <input type="email" id="email" name="email" placeholder="example@email.com" required><br>
         </div>
 
         <div class="form-row">
             <label for="phone">Phone Number <span style="color:#e63946;">*</span></label>
-            <input type="text" id="phone" name="phone" placeholder="+92 300 1234567" required>
+            <input type="text" id="phone" name="phone" placeholder="+92 300 1234567" required><br>
         </div>
 
         <div class="form-row">
             <label for="destination">Where do you want to travel?</label>
-            <input type="text" id="destination" name="destination" placeholder="e.g. Hunza, Skardu, Neelum Valley...">
+            <input type="text" id="destination" name="destination" placeholder="e.g. Hunza, Skardu, Neelum Valley..."><br>
         </div>
 
         <div class="form-row">
@@ -1088,7 +1088,7 @@ a.product_type_simple:hover {
                 <option value="Forest Lodge">Forest Lodge</option>
                 <option value="Cultural Stay">Cultural Stay</option>
                 <option value="Other">Other</option>
-            </select>
+            </select><br>
         </div>
 
         <div class="form-row">
