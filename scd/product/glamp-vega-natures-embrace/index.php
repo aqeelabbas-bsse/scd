@@ -1,32 +1,97 @@
 <?php
-require_once __DIR__ . '/../../db.php';
+// DB connection
+require_once '../../db.php';
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST'
-    && isset($_POST['booking_form'])) {
-
-    $product_name = $_POST['product_name'] ?? '';
-    $full_name    = $_POST['full_name'] ?? '';
-    $email        = $_POST['email'] ?? '';
-    $phone        = $_POST['phone'] ?? '';
-    $from_date    = $_POST['from_date'] ?? '';
-    $to_date      = $_POST['to_date'] ?? '';
-    $guests       = $_POST['guests'] ?? '';
-
-    $stmt = $conn->prepare("
-        INSERT INTO bookings (product_name, full_name, email, phone, from_date, to_date, guests)
-        VALUES (?, ?, ?, ?, ?, ?, ?)
-    ");
-    $stmt->bind_param("sssssss",
-        $product_name, $full_name, $email, $phone, $from_date, $to_date, $guests
-    );
-    $stmt->execute();
-    $stmt->close();
-
+/* chhota helper: JS alert + back */
+function js_back($msg){
     echo "<script>
-            alert('Your booking request has been submitted!');
-            window.location.href = '" . $_SERVER['REQUEST_URI'] . "';
+            alert('".addslashes($msg)."');
+            window.history.back();
           </script>";
     exit;
+}
+
+try {
+
+    if ($_SERVER['REQUEST_METHOD'] === 'POST'
+        && isset($_POST['booking_form'])) {
+
+        // ---------- FIELDS SAFE READ ----------
+        $product_name = trim($_POST['product_name'] ?? '');
+        $full_name    = trim($_POST['full_name'] ?? '');
+        $email        = trim($_POST['email'] ?? '');
+        $phone        = trim($_POST['phone'] ?? '');
+        $from_date    = trim($_POST['from_date'] ?? '');
+        $to_date      = trim($_POST['to_date'] ?? '');
+        $guests       = trim($_POST['guests'] ?? '');
+
+        // ---------- VALIDATIONS ----------
+
+        if ($product_name === '') {
+            js_back('Booking error: product name missing.');
+        }
+
+        // Full name: letters + spaces only
+        if (!preg_match("/^[a-zA-Z ]+$/", $full_name)) {
+            js_back('Full Name must contain only letters and spaces.');
+        }
+
+        // Email format
+        if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+            js_back('Please enter a valid email address.');
+        }
+
+        // Phone: digits only
+        if (!preg_match("/^[0-9]+$/", $phone)) {
+            js_back('Phone number must contain digits only.');
+        }
+
+        // Dates must be filled
+        if ($from_date === '' || $to_date === '') {
+            js_back('Please select both From and To dates.');
+        }
+
+        // To date >= from date
+        if ($from_date > $to_date) {
+            js_back('To Date must be after or same as From Date.');
+        }
+
+        // Guests: positive integer
+        if ($guests === '' || !ctype_digit($guests) || (int)$guests < 1) {
+            js_back('Number of guests must be a positive number.');
+        }
+
+        // ---------- DB INSERT ----------
+        $stmt = $conn->prepare("
+            INSERT INTO bookings 
+                (product_name, full_name, email, phone, from_date, to_date, guests)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+        ");
+
+        $stmt->bind_param(
+            "sssssss",
+            $product_name,
+            $full_name,
+            $email,
+            $phone,
+            $from_date,
+            $to_date,
+            $guests
+        );
+
+        $stmt->execute();
+        $stmt->close();
+
+        echo "<script>
+                alert('Your booking request has been submitted!');
+                window.location.href = '".addslashes($_SERVER['REQUEST_URI'])."';
+              </script>";
+        exit;
+    }
+
+} catch (Throwable $e) {
+    error_log('Booking page error: '.$e->getMessage());
+    js_back('Something went wrong while processing your booking. Please try again later.');
 }
 ?>
 <!DOCTYPE html>

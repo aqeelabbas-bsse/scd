@@ -1,23 +1,78 @@
 <?php
 require_once '../db.php';
 
-if($_SERVER['REQUEST_METHOD'] === 'POST'){
-    $full_name = $_POST['full_name'];
-    $email = $_POST['email'];
-    $phone = $_POST['phone'];
-    $travel_place = $_POST['travel_place'];
-    $experience_type = $_POST['experience_type'];
+/* Helper function: JS alert + back */
+function js_back($msg){
+    echo "<script>
+            alert('".addslashes($msg)."');
+            window.history.back();
+          </script>";
+    exit;
+}
 
-    $stmt = $conn->prepare("INSERT INTO contact_messages(full_name, email, phone, travel_place, experience_type)
-                            VALUES (?, ?, ?, ?, ?)");
-    $stmt->bind_param("sssss", $full_name, $email, $phone, $travel_place, $experience_type);
+/* Enable mysqli exceptions */
+mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
-    if($stmt->execute()){
-        echo "<script>alert('Message submitted successfully!'); window.location.href='index.php';</script>";
+try {
+
+    if($_SERVER['REQUEST_METHOD'] === 'POST'){
+
+        $full_name       = trim($_POST['full_name'] ?? '');
+        $email           = trim($_POST['email'] ?? '');
+        $phone           = trim($_POST['phone'] ?? '');
+        $travel_place    = trim($_POST['travel_place'] ?? '');
+        $experience_type = trim($_POST['experience_type'] ?? '');
+
+        /* ---------------- VALIDATIONS ---------------- */
+
+        // 1) Full Name → letters + spaces only
+        if(!preg_match("/^[a-zA-Z ]+$/", $full_name)){
+            js_back("Name must contain only letters and spaces");
+        }
+
+        // 2) Email → valid format
+        if(!filter_var($email, FILTER_VALIDATE_EMAIL)){
+            js_back("Invalid email format");
+        }
+
+        // 3) Phone → digits only
+        if(!preg_match("/^[0-9]+$/", $phone)){
+            js_back("Phone number must contain only digits");
+        }
+
+        // 4) Travel place → FREE text (NO validation)
+        // 5) Experience type → empty check
+        if($experience_type === ""){
+            js_back("Please select an experience type");
+        }
+
+        /* ---------------- INSERT INTO DATABASE ---------------- */
+        $stmt = $conn->prepare("
+            INSERT INTO contact_messages(full_name, email, phone, travel_place, experience_type)
+            VALUES (?, ?, ?, ?, ?)
+        ");
+
+        $stmt->bind_param("sssss", 
+            $full_name, 
+            $email, 
+            $phone, 
+            $travel_place, 
+            $experience_type
+        );
+
+        $stmt->execute();
+        $stmt->close();
+
+        echo "<script>
+                alert('Message submitted successfully!');
+                window.location.href='index.php';
+              </script>";
         exit;
-    } else {
-        echo "<script>alert('Error saving data!');</script>";
     }
+
+} catch (Throwable $e){
+    error_log("Contact Form Error: ".$e->getMessage());
+    js_back("Server error occurred. Please try again later.");
 }
 ?>
 <!DOCTYPE html>

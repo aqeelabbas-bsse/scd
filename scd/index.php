@@ -2,7 +2,9 @@
 require_once 'db.php';   // same folder me db.php hai
 session_start();
 
-/* chhota helper: alert + back */
+/**
+ * Small helper: JS alert + back
+ */
 function js_back($msg){
     echo "<script>
             alert('".addslashes($msg)."');
@@ -11,112 +13,183 @@ function js_back($msg){
     exit;
 }
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+/**
+ * Mysqli ko exceptions throw karne do,
+ * taake hum try/catch se handle kar saken.
+ */
+mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
-    $form_type = $_POST['form_type'] ?? '';
+try {
 
-    /* ================== LOGIN ================== */
-    if ($form_type === 'login') {
+    // Sirf POST requests handle karo
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-        // plugin ka username field actually email hi use karega
-        $username = trim($_POST['xoo_el_username'] ?? '');
-        $password = trim($_POST['xoo_el_password'] ?? '');
+        /* ================== LOGIN / SIGNUP (POPUP) ================== */
+        $form_type = $_POST['form_type'] ?? '';
 
-        if ($username === '' || $password === '') {
-            js_back('Please fill all fields');
-        }
+        /* ---------- LOGIN ---------- */
+        if ($form_type === 'login') {
 
-        // sirf email se search, kyun ke table me username column nahi hai
-        $stmt = $conn->prepare(
-            "SELECT id, full_name, email, password_hash
-             FROM users
-             WHERE email = ?"
-        );
-        if (!$stmt) {
-            die('DB error: '.$conn->error);
-        }
+            // plugin ka username field actually email hi use karega
+            $username = trim($_POST['xoo_el_username'] ?? '');
+            $password = trim($_POST['xoo_el_password'] ?? '');
 
-        // 1 placeholder -> 1 hi variable bind karein
-        $stmt->bind_param("s", $username);
-        $stmt->execute();
-        $result = $stmt->get_result();
+            if ($username === '' || $password === '') {
+                js_back('Please fill all fields');
+            }
 
-        if ($row = $result->fetch_assoc()) {
+            // Sirf email se search, kyun ke table me username column nahi hai
+            $stmt = $conn->prepare(
+                "SELECT id, full_name, email, password_hash
+                 FROM users
+                 WHERE email = ?"
+            );
 
-            // plain password vs password_hash
-            if (password_verify($password, $row['password_hash'])) {
+            $stmt->bind_param("s", $username);
+            $stmt->execute();
+            $result = $stmt->get_result();
 
-                $_SESSION['user_id']   = $row['id'];
-                $_SESSION['user_name'] = $row['full_name'];
+            if ($row = $result->fetch_assoc()) {
 
-                echo "<script>
-                        alert('Login successful');
-                        window.location.href='index.php';
-                      </script>";
-                exit;
+                // Plain password vs password_hash
+                if (password_verify($password, $row['password_hash'])) {
 
+                    $_SESSION['user_id']   = $row['id'];
+                    $_SESSION['user_name'] = $row['full_name'];
+
+                    echo "<script>
+                            alert('Login successful');
+                            window.location.href='index.php';
+                          </script>";
+                    exit;
+
+                } else {
+                    js_back('Invalid email or password');
+                }
             } else {
                 js_back('Invalid email or password');
             }
-        } else {
-            js_back('Invalid email or password');
-        }
 
-        $stmt->close();
-    }
-
-    /* ================== SIGNUP / REGISTER ================== */
-    elseif ($form_type === 'register') {
-
-        $email   = trim($_POST['xoo_el_reg_email'] ?? '');
-        $pass1   = trim($_POST['xoo_el_reg_pass'] ?? '');
-        $pass2   = trim($_POST['xoo_el_reg_pass_again'] ?? '');
-        $fname   = trim($_POST['xoo_el_reg_fname'] ?? '');
-        $lname   = trim($_POST['xoo_el_reg_lname'] ?? '');
-        $full_name = trim($fname . ' ' . $lname);
-
-        if ($email === '' || $pass1 === '' || $pass2 === '' || $fname === '' || $lname === '') {
-            js_back('Please fill all fields in Sign Up');
-        }
-
-        if ($pass1 !== $pass2) {
-            js_back('Passwords do not match');
-        }
-
-        // duplicate email check
-        $stmt = $conn->prepare("SELECT id FROM users WHERE email = ?");
-        $stmt->bind_param("s", $email);
-        $stmt->execute();
-        $stmt->store_result();
-
-        if ($stmt->num_rows > 0) {
             $stmt->close();
-            js_back('This email is already registered');
         }
-        $stmt->close();
 
-        // password hash banao
-        $hash = password_hash($pass1, PASSWORD_BCRYPT);
+        /* ---------- SIGNUP / REGISTER ---------- */
+        elseif ($form_type === 'register') {
 
-        // naya user insert karo
-        $stmt = $conn->prepare(
-            "INSERT INTO users (full_name, email, password_hash)
-             VALUES (?, ?, ?)"
-        );
-        $stmt->bind_param("sss", $full_name, $email, $hash);
+            $email   = trim($_POST['xoo_el_reg_email'] ?? '');
+            $pass1   = trim($_POST['xoo_el_reg_pass'] ?? '');
+            $pass2   = trim($_POST['xoo_el_reg_pass_again'] ?? '');
+            $fname   = trim($_POST['xoo_el_reg_fname'] ?? '');
+            $lname   = trim($_POST['xoo_el_reg_lname'] ?? '');
+            $full_name = trim($fname . ' ' . $lname);
 
-        if ($stmt->execute()) {
+            if ($email === '' || $pass1 === '' || $pass2 === '' || $fname === '' || $lname === '') {
+                js_back('Please fill all fields in Sign Up');
+            }
+
+            if ($pass1 !== $pass2) {
+                js_back('Passwords do not match');
+            }
+
+            // duplicate email check
+            $stmt = $conn->prepare("SELECT id FROM users WHERE email = ?");
+            $stmt->bind_param("s", $email);
+            $stmt->execute();
+            $stmt->store_result();
+
+            if ($stmt->num_rows > 0) {
+                $stmt->close();
+                js_back('This email is already registered');
+            }
+            $stmt->close();
+
+            // password hash banao
+            $hash = password_hash($pass1, PASSWORD_BCRYPT);
+
+            // naya user insert karo
+            $stmt = $conn->prepare(
+                "INSERT INTO users (full_name, email, password_hash)
+                 VALUES (?, ?, ?)"
+            );
+            $stmt->bind_param("sss", $full_name, $email, $hash);
+
+            if ($stmt->execute()) {
+                echo "<script>
+                        alert('Account created successfully! Please log in.');
+                        window.location.href='index.php';
+                      </script>";
+                exit;
+            } else {
+                js_back('Error saving account');
+            }
+
+            $stmt->close();
+        }
+
+        /* ================== HOME PAGE KA PLAN FORM ================== */
+        if (
+            isset($_POST['form_name']) &&
+            $_POST['form_name'] === 'home_plan_form'
+        ) {
+            // form fields
+            $full_name       = trim($_POST['full_name'] ?? '');
+            $email           = trim($_POST['email'] ?? '');
+            $phone           = trim($_POST['phone'] ?? '');
+            $travel_location = trim($_POST['travel_location'] ?? '');
+            $experience_type = trim($_POST['experience_type'] ?? '');
+            $message         = trim($_POST['message'] ?? '');
+
+            // ---- VALIDATIONS ----
+
+            // 1) Full name only letters + spaces
+            if (!preg_match("/^[a-zA-Z ]+$/", $full_name)) {
+                js_back('Name must contain only letters');
+            }
+
+            // 2) Email format validation
+            if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+                js_back('Invalid email format');
+            }
+
+            // 3) Phone digits only
+            if (!preg_match("/^[0-9]+$/", $phone)) {
+                js_back('Phone number must contain only digits');
+            }
+
+            // 4) Travel location -> ab koi validation nahi (free text)
+            // sirf trim kiya hua value DB mein save ho jayega.
+
+            // ---- DB INSERT ----
+            $stmt = $conn->prepare("
+                INSERT INTO contacts (full_name, email, phone, travel_location, experience_type, message)
+                VALUES (?, ?, ?, ?, ?, ?)
+            ");
+
+            $stmt->bind_param(
+                "ssssss",
+                $full_name,
+                $email,
+                $phone,
+                $travel_location,
+                $experience_type,
+                $message
+            );
+
+            $stmt->execute();
+            $stmt->close();
+
             echo "<script>
-                    alert('Account created successfully! Please log in.');
-                    window.location.href='index.php';
+                    alert('Your details have been submitted successfully!');
+                    window.location.href = 'index.php#plan-form';
                   </script>";
             exit;
-        } else {
-            js_back('Error saving account');
         }
-
-        $stmt->close();
     }
+
+} catch (Throwable $e) {
+    // agar koi bhi DB / PHP error aaya to yahan aa jayega
+    error_log('Error in index.php: '.$e->getMessage());
+    js_back('Something went wrong on server, please try again later.');
 }
 ?>
 <!DOCTYPE html>
@@ -1939,167 +2012,169 @@ Weekends (Fri-Sun)= 28000 PKR</span>				</div>
                                 </ul>
                             </div>
 
-                            <!-- =================== LOGIN SECTION =================== -->
-                            <div data-section="login" class="xoo-el-section">
-                                <div class="xoo-el-fields">
-                                    <div class="xoo-el-notice"></div>
+                             <!-- =================== LOGIN SECTION =================== -->
+<div data-section="login" class="xoo-el-section">
+    <div class="xoo-el-fields">
+        <div class="xoo-el-notice"></div>
 
-                                    <!-- form_type = login -->
-                                    <form class="xoo-el-form-login" method="post" action="">
-                                        <input type="hidden" name="form_type" value="login">
+        <!-- form_type = login -->
+        <form class="xoo-el-form-login" method="post" action="">
+            <input type="hidden" name="form_type" value="login">
 
-                                        <div class="xoo-el-fields-cont">
+            <div class="xoo-el-fields-cont">
 
-                                            <!-- Username / Email -->
-                                            <div class="xoo-aff-group xoo-aff-cont-text one xoo-aff-cont-required xoo-el-username_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon fas fa-user-plus"></span>
-                                                    <input
-                                                        type="text"
-                                                        class="xoo-aff-required xoo-aff-text"
-                                                        name="xoo_el_username"
-                                                        placeholder="Username / Email"
-                                                        autocomplete="username"
-                                                        required>
-                                                </div>
-                                            </div>
+                <!-- Username / Email -->
+                <div class="xoo-aff-group xoo-aff-cont-text one xoo-aff-cont-required xoo-el-username_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon fas fa-user-plus"></span>
+                        <input
+                            type="text"
+                            class="xoo-aff-required xoo-aff-text"
+                            name="xoo_el_username"
+                            placeholder="Username / Email"
+                            autocomplete="username"
+                            required>
+                    </div>
+                </div>
 
-                                            <!-- Password -->
-                                            <div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo-el-password_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon fas fa-key"></span>
-                                                    <input
-                                                        type="password"
-                                                        class="xoo-aff-required xoo-aff-password"
-                                                        name="xoo_el_password"
-                                                        placeholder="Password"
-                                                        autocomplete="current-password"
-                                                        required>
-                                                </div>
-                                            </div>
-                                        </div>
+                <!-- Password -->
+                <div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo-el-password_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon fas fa-key"></span>
+                        <input
+                            type="password"
+                            class="xoo-aff-required xoo-aff-password"
+                            name="xoo_el_password"
+                            placeholder="Password"
+                            autocomplete="current-password"
+                            minlength="6"
+                            required>
+                    </div>
+                </div>
 
-                                        <div class="xoo-aff-group xoo-el-login-btm-fields">
-                                            <label class="xoo-el-form-label">
-                                                <input type="checkbox" name="remember_me" value="1">
-                                                <span>Remember me</span>
-                                            </label>
-                                            <a class="xoo-el-lostpw-tgr" rel="nofollow" href="#">Forgot Password?</a>
-                                        </div>
+            </div>
 
-                                        <button type="submit" class="button btn xoo-el-action-btn xoo-el-login-btn">
-                                            Sign in
-                                        </button>
-                                    </form>
+            <div class="xoo-aff-group xoo-el-login-btm-fields">
+                <label class="xoo-el-form-label">
+                    <input type="checkbox" name="remember_me" value="1">
+                    <span>Remember me</span>
+                </label>
+                <a class="xoo-el-lostpw-tgr" rel="nofollow" href="#">Forgot Password?</a>
+            </div>
 
-                                </div>
-                            </div>
+            <button type="submit" class="button btn xoo-el-action-btn xoo-el-login-btn">
+                Sign in
+            </button>
+        </form>
 
-                            <!-- =================== REGISTER SECTION =================== -->
-                            <div data-section="register" class="xoo-el-section">
-                                <div class="xoo-el-fields">
-                                    <div class="xoo-el-notice"></div>
+    </div>
+</div>
 
-                                    <!-- NOTE: yahan se JS-wali xoo-el-action-form class hata di hai -->
-                                    <form class="xoo-el-form-register" method="post" action="">
-                                        <input type="hidden" name="form_type" value="register">
+<!-- =================== REGISTER SECTION =================== -->
+<div data-section="register" class="xoo-el-section">
+    <div class="xoo-el-fields">
+        <div class="xoo-el-notice"></div>
 
-                                        <div class="xoo-el-fields-cont">
+        <!-- PHP-based register form -->
+        <form class="xoo-el-form-register" method="post" action="">
+            <input type="hidden" name="form_type" value="register">
 
-                                            <!-- Email -->
-                                            <div class="xoo-aff-group xoo-aff-cont-email one xoo-aff-cont-required xoo_el_reg_email_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon fas fa-at"></span>
-                                                    <input
-                                                        type="email"
-                                                        class="xoo-aff-required xoo-aff-email"
-                                                        name="xoo_el_reg_email"
-                                                        placeholder="Email"
-                                                        autocomplete="email"
-                                                        required>
-                                                </div>
-                                            </div>
+            <div class="xoo-el-fields-cont">
 
-                                            <!-- Password -->
-                                            <div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon fas fa-key"></span>
-                                                    <input
-                                                        type="password"
-                                                        class="xoo-aff-required xoo-aff-password"
-                                                        name="xoo_el_reg_pass"
-                                                        placeholder="Password"
-                                                        minlength="6"
-                                                        maxlength="20"
-                                                        autocomplete="new-password"
-                                                        required>
-                                                </div>
-                                            </div>
+                <!-- Email -->
+                <div class="xoo-aff-group xoo-aff-cont-email one xoo-aff-cont-required xoo_el_reg_email_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon fas fa-at"></span>
+                        <input
+                            type="email"
+                            class="xoo-aff-required xoo-aff-email"
+                            name="xoo_el_reg_email"
+                            placeholder="Email"
+                            autocomplete="email"
+                            required>
+                    </div>
+                </div>
 
-                                            <!-- Confirm Password -->
-                                            <div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_again_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon fas fa-key"></span>
-                                                    <input
-                                                        type="password"
-                                                        class="xoo-aff-required xoo-aff-password"
-                                                        name="xoo_el_reg_pass_again"
-                                                        placeholder="Confirm Password"
-                                                        autocomplete="new-password"
-                                                        required>
-                                                </div>
-                                            </div>
+                <!-- Password -->
+                <div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon fas fa-key"></span>
+                        <input
+                            type="password"
+                            class="xoo-aff-required xoo-aff-password"
+                            name="xoo_el_reg_pass"
+                            placeholder="Password"
+                            minlength="6"
+                            maxlength="20"
+                            autocomplete="new-password"
+                            required>
+                    </div>
+                </div>
 
-                                            <!-- First Name -->
-                                            <div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_fname_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon far fa-user"></span>
-                                                    <input
-                                                        type="text"
-                                                        class="xoo-aff-required xoo-aff-text"
-                                                        name="xoo_el_reg_fname"
-                                                        placeholder="First Name"
-                                                        required>
-                                                </div>
-                                            </div>
+                <!-- Confirm Password (IMPORTANT: xoo-el-reg-pass-confirm) -->
+                <div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_again_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon fas fa-key"></span>
+                        <input
+                            type="password"
+                            class="xoo-aff-required xoo-aff-password xoo-el-reg-pass-confirm"
+                            name="xoo_el_reg_pass_again"
+                            placeholder="Confirm Password"
+                            autocomplete="new-password"
+                            required>
+                    </div>
+                </div>
 
-                                            <!-- Last Name -->
-                                            <div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_lname_cont">
-                                                <div class="xoo-aff-input-group">
-                                                    <span class="xoo-aff-input-icon far fa-user"></span>
-                                                    <input
-                                                        type="text"
-                                                        class="xoo-aff-required xoo-aff-text"
-                                                        name="xoo_el_reg_lname"
-                                                        placeholder="Last Name"
-                                                        required>
-                                                </div>
-                                            </div>
+                <!-- First Name -->
+                <div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_fname_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon far fa-user"></span>
+                        <input
+                            type="text"
+                            class="xoo-aff-required xoo-aff-text"
+                            name="xoo_el_reg_fname"
+                            placeholder="First Name"
+                            required>
+                    </div>
+                </div>
 
-                                            <!-- Terms checkbox  -->
-                                            <div class="xoo-aff-group xoo-aff-cont-checkbox_single one xoo-aff-cont-required xoo_el_reg_terms_cont">
-                                                <div class="xoo-aff-required xoo-aff-checkbox_single">
-                                                    <label>
-                                                        <input
-                                                            type="checkbox"
-                                                            name="xoo_el_reg_terms"
-                                                            class="xoo-aff-required xoo-aff-checkbox_single"
-                                                            value="yes"
-                                                            required>
-                                                        I accept the
-                                                        <a href="./index.php?page_id=3" target="_blank">
-                                                            Terms of Service and Privacy Policy
-                                                        </a>
-                                                    </label>
-                                                </div>
-                                            </div>
+                <!-- Last Name -->
+                <div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_lname_cont">
+                    <div class="xoo-aff-input-group">
+                        <span class="xoo-aff-input-icon far fa-user"></span>
+                        <input
+                            type="text"
+                            class="xoo-aff-required xoo-aff-text"
+                            name="xoo_el_reg_lname"
+                            placeholder="Last Name"
+                            required>
+                    </div>
+                </div>
 
-                                        </div>
+                <!-- Terms checkbox  -->
+                <div class="xoo-aff-group xoo-aff-cont-checkbox_single one xoo-aff-cont-required xoo_el_reg_terms_cont">
+                    <div class="xoo-aff-required xoo-aff-checkbox_single">
+                        <label>
+                            <input
+                                type="checkbox"
+                                name="xoo_el_reg_terms"
+                                class="xoo-aff-required xoo-aff-checkbox_single"
+                                value="yes"
+                                required>
+                            I accept the
+                            <a href="./index.php?page_id=3" target="_blank">
+                                Terms of Service and Privacy Policy
+                            </a>
+                        </label>
+                    </div>
+                </div>
 
-                                        <button type="submit" class="button btn xoo-el-action-btn xoo-el-register-btn">
-                                            Sign Up
-                                        </button>
-                                    </form>
+            </div>
+
+            <button type="submit" class="button btn xoo-el-action-btn xoo-el-register-btn">
+                Sign Up
+            </button>
+        </form>
 
                                 </div>
                             </div>
