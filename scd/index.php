@@ -148,7 +148,10 @@ try {
                 js_back('Invalid email format');
             }
 
-         
+            // 3) Phone digits only
+            if (!preg_match("/^[0-9]+$/", $phone)) {
+                js_back('Phone number must contain only digits');
+            }
 
             // 4) Travel location -> free text (no regex)
 
