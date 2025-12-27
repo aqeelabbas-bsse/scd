@@ -916,7 +916,7 @@ a.product_type_simple:hover {
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-c137ac9 elementor-invisible elementor-widget elementor-widget-heading" data-id="c137ac9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h1 class="elementor-heading-title elementor-size-default">Welcome to Wanderlust Pakistan</h1>				</div>
+					<h1 class="elementor-heading-title elementor-size-default">Welcome to Wanderlust</h1>				</div>
 				</div>
 				<div class="elementor-element elementor-element-7a4d140 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7a4d140" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
