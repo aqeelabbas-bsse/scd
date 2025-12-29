@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head><meta charset="UTF-8">
-	
-		<title>Testimonials – wanderlustpakistan.com</title>
+    <head><meta charset="UTF-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+                <title>Our Journey – wanderlustpakistan.com</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="alternate" type="application/rss+xml" title="wanderlustpakistan.com » Feed" href="./../feed/index.html">
@@ -190,11 +191,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="stylesheet" id="xoo-el-fonts-css" href="./../wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-fonts.css?ver=3.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="elementor-frontend-css" href="./../wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.4" type="text/css" media="all">
 <style id="elementor-frontend-inline-css" type="text/css">
-.elementor-22 .elementor-element.elementor-element-6c87814:not(.elementor-motion-effects-element-type-background), .elementor-22 .elementor-element.elementor-element-6c87814 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F0D9F000;background-image:url("./../wp-content/uploads/2025/10/WhatsApp-Image-2025-07-16-at-21.02.23_42263d4e.jpg");background-position:center center;background-size:cover;}.elementor-22 .elementor-element.elementor-element-6c87814 > .elementor-background-overlay{background-color:#2EA5B4;opacity:0.2;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-22 .elementor-element.elementor-element-6c87814{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:200px 0px 200px 0px;}.elementor-22 .elementor-element.elementor-element-13c0953 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-22 .elementor-element.elementor-element-76b3582{text-align:center;}.elementor-22 .elementor-element.elementor-element-76b3582 .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:80px;font-weight:600;letter-spacing:0.4px;text-shadow:0px 0px 10px rgba(0,0,0,0.3);color:#FFFFFF;}.elementor-22 .elementor-element.elementor-element-173e533:not(.elementor-motion-effects-element-type-background), .elementor-22 .elementor-element.elementor-element-173e533 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F2F5FC;}.elementor-22 .elementor-element.elementor-element-173e533{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-22 .elementor-element.elementor-element-173e533 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-22 .elementor-element.elementor-element-b721af7{text-align:right;font-family:"Open Sans", Sans-serif;font-size:70px;font-weight:500;color:#2F2F2F;}.elementor-22 .elementor-element.elementor-element-0fce03c > .elementor-element-populated{padding:43px 0px 0px 0px;}.elementor-widget-star-rating .elementor-star-rating__title{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-22 .elementor-element.elementor-element-ea01fb8 .elementor-star-rating{font-size:15px;}.elementor-22 .elementor-element.elementor-element-ea01fb8 .elementor-star-rating i:not(:last-of-type){margin-inline-end:1px;}.elementor-22 .elementor-element.elementor-element-ea01fb8 .elementor-star-rating i:before{color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-d143115 > .elementor-widget-container{margin:-16px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-d143115{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;}.elementor-22 .elementor-element.elementor-element-69e47e2 > .elementor-element-populated{padding:43px 0px 0px 0px;}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-22 .elementor-element.elementor-element-cd1ca00 > .elementor-widget-container{padding:0px 17px 0px 0px;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon-wrapper{text-align:right;}.elementor-22 .elementor-element.elementor-element-cd1ca00.elementor-view-stacked .elementor-icon{background-color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-cd1ca00.elementor-view-framed .elementor-icon, .elementor-22 .elementor-element.elementor-element-cd1ca00.elementor-view-default .elementor-icon{color:#2EA5B4;border-color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-cd1ca00.elementor-view-framed .elementor-icon, .elementor-22 .elementor-element.elementor-element-cd1ca00.elementor-view-default .elementor-icon svg{fill:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon{font-size:55px;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon svg{height:55px;}.elementor-22 .elementor-element.elementor-element-de920b4 > .elementor-widget-container{margin:-2px 0px -27px 0px;}.elementor-22 .elementor-element.elementor-element-de920b4{column-gap:0px;font-family:"Open Sans", Sans-serif;font-size:25px;font-weight:400;color:#2F2F2F;}.elementor-22 .elementor-element.elementor-element-04066d6 > .elementor-widget-container{margin:-16px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-04066d6{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;}.elementor-22 .elementor-element.elementor-element-cb6246e > .elementor-element-populated{padding:43px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-f442346 > .elementor-widget-container{padding:0px 17px 0px 0px;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon-wrapper{text-align:right;}.elementor-22 .elementor-element.elementor-element-f442346.elementor-view-stacked .elementor-icon{background-color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-f442346.elementor-view-framed .elementor-icon, .elementor-22 .elementor-element.elementor-element-f442346.elementor-view-default .elementor-icon{color:#2EA5B4;border-color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-f442346.elementor-view-framed .elementor-icon, .elementor-22 .elementor-element.elementor-element-f442346.elementor-view-default .elementor-icon svg{fill:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon{font-size:55px;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon svg{height:55px;}.elementor-22 .elementor-element.elementor-element-83af9ef > .elementor-widget-container{margin:-2px 0px -27px 0px;}.elementor-22 .elementor-element.elementor-element-83af9ef{column-gap:0px;font-family:"Open Sans", Sans-serif;font-size:25px;font-weight:400;color:#2F2F2F;}.elementor-22 .elementor-element.elementor-element-36a4729 > .elementor-widget-container{margin:-16px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-36a4729{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;}.elementor-22 .elementor-element.elementor-element-7c56c6d > .elementor-element-populated{padding:43px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-c21d716 > .elementor-widget-container{padding:0px 17px 0px 0px;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon-wrapper{text-align:right;}.elementor-22 .elementor-element.elementor-element-c21d716.elementor-view-stacked .elementor-icon{background-color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-c21d716.elementor-view-framed .elementor-icon, .elementor-22 .elementor-element.elementor-element-c21d716.elementor-view-default .elementor-icon{color:#2EA5B4;border-color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-c21d716.elementor-view-framed .elementor-icon, .elementor-22 .elementor-element.elementor-element-c21d716.elementor-view-default .elementor-icon svg{fill:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon{font-size:55px;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon svg{height:55px;}.elementor-22 .elementor-element.elementor-element-47d3c26 > .elementor-widget-container{margin:-2px 0px -27px 0px;}.elementor-22 .elementor-element.elementor-element-47d3c26{column-gap:0px;font-family:"Open Sans", Sans-serif;font-size:25px;font-weight:400;color:#2F2F2F;}.elementor-22 .elementor-element.elementor-element-db9d67c > .elementor-widget-container{margin:-16px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-db9d67c{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;}.elementor-22 .elementor-element.elementor-element-634496d:not(.elementor-motion-effects-element-type-background), .elementor-22 .elementor-element.elementor-element-634496d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F2F5FC;}.elementor-22 .elementor-element.elementor-element-634496d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:80px 0px 30px 0px;}.elementor-22 .elementor-element.elementor-element-634496d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-arrow{display:flex !important;color:#258F9D;-webkit-transition-duration:0.1s;transition-duration:0.1s;font-size:14px;width:100px;height:100px;border-style:none;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-dots{display:none !important;top:96%;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-content-inner{background-color:#F9F9F900;padding:10px 25px 5px 25px;border-style:none;border-radius:5px 5px 5px 5px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-dot{width:5px;height:5px;margin-right:8px;background-color:#d1d1d1;border-style:none;border-radius:50% 50% 50% 50%;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-item{padding:0px 120px 90px 120px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-left .wpr-testimonial-meta{padding-top:10px;margin-right:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-right .wpr-testimonial-meta{padding-top:10px;margin-left:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-top:not(.wpr-testimonial-meta-align-center) .wpr-testimonial-meta,
-					 .elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-bottom:not(.wpr-testimonial-meta-align-center) .wpr-testimonial-meta{padding:0 25px 0 25px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-icon i{color:#c1c1c1;font-size:35px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-icon svg{fill:#c1c1c1;width:35px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-icon{margin-bottom:10px;text-align:center;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-title{color:#222222;margin:0 0 3px;text-align:center;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-content{color:#2F2F2F;font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;line-height:22px;letter-spacing:0.4px;margin-bottom:15px;text-align:center;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-date{color:#c1c1c1;text-align:center;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-rating i:before{color:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-rating-icon .wpr-rating-marked svg{fill:#2EA5B4;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-rating i{color:#d8d8d8;font-size:15px;margin-right:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-rating svg{fill:#d8d8d8;width:15px;height:15px;margin-right:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-rating span{color:#2EA5B4;margin-left:0px;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-rating{text-align:center;margin-bottom:15px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-top .wpr-testimonial-meta{margin-bottom:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-bottom .wpr-testimonial-meta{margin-top:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-extra .wpr-testimonial-content-wrap{margin-bottom:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-image img{width:100px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-top.wpr-testimonial-meta-align-left .wpr-testimonial-content-inner:before,
-					.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-bottom.wpr-testimonial-meta-align-left .wpr-testimonial-content-inner:before{left:calc( 25px + 1px + (100px / 2) );}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-top.wpr-testimonial-meta-align-right .wpr-testimonial-content-inner:before,
-					.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-bottom.wpr-testimonial-meta-align-right .wpr-testimonial-content-inner:before{right:calc( 25px + 1px + (100px / 2) );}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-left .wpr-testimonial-content-inner:before,
-					.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-meta-position-right .wpr-testimonial-content-inner:before{top:calc( 10px + 1px + (100px / 2) );}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-image{margin-bottom:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-image-position-right .wpr-testimonial-image{margin-left:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-image-position-left .wpr-testimonial-image{margin-right:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1.wpr-testimonial-image-position-center .wpr-testimonial-image{margin-bottom:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-name{color:#222222;font-family:"Playfair Display", Sans-serif;font-size:13px;font-weight:400;letter-spacing:0.5px;margin-bottom:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-job{color:#b7b7b7;margin:0 0 5px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-logo-image img{max-width:65px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-logo-image{margin-bottom:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-social{color:#ffffff;background-color:#919191;border-color:#b5b5b5;transition-duration:0.1s;width:30px;height:30px;font-size:9px;margin-right:3px;border-style:none;border-radius:1px 1px 1px 1px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-social:hover{color:#ffffff;background-color:#444444;border-color:#b5b5b5;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-social i{line-height:30px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-social svg{line-height:30px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-arrow svg{fill:#258F9D;-webkit-transition-duration:0.1s;transition-duration:0.1s;width:14px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-arrow:hover{color:#605BE5;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-arrow:hover svg{fill:#605BE5;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-dots .slick-active .wpr-testimonial-dot{background-color:#222222;}.elementor-22 .elementor-element.elementor-element-773862b3{--display:flex;--min-height:500px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--overlay-opacity:0.5;--margin-top:20px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-22 .elementor-element.elementor-element-773862b3:not(.elementor-motion-effects-element-type-background), .elementor-22 .elementor-element.elementor-element-773862b3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("./../wp-content/uploads/2025/10/girl-with-ethnic-clothes-on-top-hill.jpg");background-position:center center;background-size:cover;}.elementor-22 .elementor-element.elementor-element-773862b3::before, .elementor-22 .elementor-element.elementor-element-773862b3 > .elementor-background-video-container::before, .elementor-22 .elementor-element.elementor-element-773862b3 > .e-con-inner > .elementor-background-video-container::before, .elementor-22 .elementor-element.elementor-element-773862b3 > .elementor-background-slideshow::before, .elementor-22 .elementor-element.elementor-element-773862b3 > .e-con-inner > .elementor-background-slideshow::before, .elementor-22 .elementor-element.elementor-element-773862b3 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:#1E1B1E;--background-overlay:'';}.elementor-22 .elementor-element.elementor-element-3a8cbb0c{width:var( --container-widget-width, 396.766% );max-width:396.766%;--container-widget-width:396.766%;--container-widget-flex-grow:0;text-align:center;}.elementor-22 .elementor-element.elementor-element-3a8cbb0c > .elementor-widget-container{margin:-15px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-3a8cbb0c.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-22 .elementor-element.elementor-element-3a8cbb0c .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:45px;font-weight:500;letter-spacing:0.4px;color:#FFFFFF;}.elementor-22 .elementor-element.elementor-element-22cf9f80 > .elementor-widget-container{padding:5px 0px 10px 0px;}.elementor-22 .elementor-element.elementor-element-22cf9f80{text-align:center;font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;line-height:22px;letter-spacing:0.4px;color:#E9E9E9;}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-22 .elementor-element.elementor-element-b71cd3a .elementor-button{background-color:#2EA5B4;border-radius:15px 15px 15px 15px;}.elementor-22 .elementor-element.elementor-element-b71cd3a .elementor-button-content-wrapper{flex-direction:row;}.elementor-22 .elementor-element.elementor-element-b71cd3a .elementor-button .elementor-button-content-wrapper{gap:13px;}@media(max-width:1024px){.elementor-22 .elementor-element.elementor-element-6c87814{margin-top:110px;margin-bottom:0px;padding:120px 0px 100px 0px;}.elementor-22 .elementor-element.elementor-element-76b3582 .elementor-heading-title{font-size:60px;}.elementor-22 .elementor-element.elementor-element-173e533{padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-b721af7 > .elementor-widget-container{margin:25px 10px 0px 0px;}.elementor-22 .elementor-element.elementor-element-b721af7{font-size:45px;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon{font-size:40px;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon svg{height:40px;}.elementor-22 .elementor-element.elementor-element-de920b4{font-size:20px;}.elementor-22 .elementor-element.elementor-element-cb6246e > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon{font-size:40px;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon svg{height:40px;}.elementor-22 .elementor-element.elementor-element-83af9ef{font-size:20px;}.elementor-22 .elementor-element.elementor-element-7c56c6d > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon{font-size:40px;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon svg{height:40px;}.elementor-22 .elementor-element.elementor-element-47d3c26{font-size:20px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-arrow{display:flex !important;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-dots{display:inline-table !important;}.elementor-22 .elementor-element.elementor-element-3a8cbb0c .elementor-heading-title{font-size:34px;}}@media(max-width:767px){.elementor-22 .elementor-element.elementor-element-6c87814{padding:90px 0px 80px 0px;}.elementor-22 .elementor-element.elementor-element-76b3582 .elementor-heading-title{font-size:45px;}.elementor-22 .elementor-element.elementor-element-173e533{padding:0px 30px 0px 30px;}.elementor-22 .elementor-element.elementor-element-d68c95b{width:50%;}.elementor-22 .elementor-element.elementor-element-1863938{width:100%;}.elementor-22 .elementor-element.elementor-element-b721af7 > .elementor-widget-container{margin:22px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-b721af7{text-align:center;}.elementor-22 .elementor-element.elementor-element-0fce03c{width:100%;}.elementor-22 .elementor-element.elementor-element-0fce03c > .elementor-element-populated{margin:-74px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-22 .elementor-element.elementor-element-ea01fb8{text-align:center;}.elementor-22 .elementor-element.elementor-element-ea01fb8 .elementor-star-rating i:not(:last-of-type){margin-inline-end:1px;}.elementor-22 .elementor-element.elementor-element-d143115{text-align:center;}.elementor-22 .elementor-element.elementor-element-69e47e2{width:50%;}.elementor-22 .elementor-element.elementor-element-1e6067d{width:100%;}.elementor-22 .elementor-element.elementor-element-cd1ca00 > .elementor-widget-container{margin:10px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon-wrapper{text-align:center;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon{font-size:30px;}.elementor-22 .elementor-element.elementor-element-cd1ca00 .elementor-icon svg{height:30px;}.elementor-22 .elementor-element.elementor-element-bc0ba10{width:100%;}.elementor-22 .elementor-element.elementor-element-bc0ba10 > .elementor-element-populated{margin:-12px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-22 .elementor-element.elementor-element-de920b4{text-align:center;font-size:16px;}.elementor-22 .elementor-element.elementor-element-04066d6 > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-04066d6{text-align:center;}.elementor-22 .elementor-element.elementor-element-cb6246e{width:50%;}.elementor-22 .elementor-element.elementor-element-c0021db{width:100%;}.elementor-22 .elementor-element.elementor-element-f442346 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon-wrapper{text-align:center;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon{font-size:30px;}.elementor-22 .elementor-element.elementor-element-f442346 .elementor-icon svg{height:30px;}.elementor-22 .elementor-element.elementor-element-2458a46{width:100%;}.elementor-22 .elementor-element.elementor-element-2458a46 > .elementor-element-populated{margin:-12px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-22 .elementor-element.elementor-element-83af9ef{text-align:center;font-size:16px;}.elementor-22 .elementor-element.elementor-element-36a4729 > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-36a4729{text-align:center;}.elementor-22 .elementor-element.elementor-element-7c56c6d{width:50%;}.elementor-22 .elementor-element.elementor-element-c5a025e{width:100%;}.elementor-22 .elementor-element.elementor-element-c21d716 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon-wrapper{text-align:center;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon{font-size:30px;}.elementor-22 .elementor-element.elementor-element-c21d716 .elementor-icon svg{height:30px;}.elementor-22 .elementor-element.elementor-element-5c6ef57{width:100%;}.elementor-22 .elementor-element.elementor-element-5c6ef57 > .elementor-element-populated{margin:-12px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-22 .elementor-element.elementor-element-47d3c26{text-align:center;font-size:16px;}.elementor-22 .elementor-element.elementor-element-db9d67c > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-db9d67c{text-align:center;}.elementor-22 .elementor-element.elementor-element-11accb8 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-carousel .slick-slide{margin-left:0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-carousel .slick-list{margin-left:-0px;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-arrow{display:none !important;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-dots{display:inline-table !important;}.elementor-22 .elementor-element.elementor-element-ab781d1 .wpr-testimonial-item{padding:0px 0px 40px 0px;}.elementor-22 .elementor-element.elementor-element-3a8cbb0c .elementor-heading-title{font-size:30px;line-height:45px;}.elementor-22 .elementor-element.elementor-element-22cf9f80 > .elementor-widget-container{padding:0px 0px 0px 0px;}}@media(max-width:1024px) and (min-width:768px){.elementor-22 .elementor-element.elementor-element-d68c95b{width:50%;}.elementor-22 .elementor-element.elementor-element-1863938{width:50%;}.elementor-22 .elementor-element.elementor-element-0fce03c{width:50%;}.elementor-22 .elementor-element.elementor-element-69e47e2{width:50%;}.elementor-22 .elementor-element.elementor-element-cb6246e{width:50%;}.elementor-22 .elementor-element.elementor-element-c0021db{width:50%;}.elementor-22 .elementor-element.elementor-element-2458a46{width:50%;}.elementor-22 .elementor-element.elementor-element-7c56c6d{width:50%;}}@media(min-width:1025px){.elementor-22 .elementor-element.elementor-element-773862b3:not(.elementor-motion-effects-element-type-background), .elementor-22 .elementor-element.elementor-element-773862b3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}
+.elementor-18 .elementor-element.elementor-element-6f74ff4:not(.elementor-motion-effects-element-type-background), .elementor-18 .elementor-element.elementor-element-6f74ff4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("./../wp-content/uploads/2025/10/khanabadosh-glamps-murree-img5-5.jpg");background-position:center center;background-size:cover;}.elementor-18 .elementor-element.elementor-element-6f74ff4 > .elementor-background-overlay{background-color:#2EA5B4;opacity:0.2;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-18 .elementor-element.elementor-element-6f74ff4 > .elementor-container{max-width:300px;}.elementor-18 .elementor-element.elementor-element-6f74ff4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:10px;margin-bottom:0px;padding:200px 0px 120px 0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-18 .elementor-element.elementor-element-734294a{width:var( --container-widget-width, 200% );max-width:200%;--container-widget-width:200%;--container-widget-flex-grow:0;text-align:center;}.elementor-18 .elementor-element.elementor-element-734294a > .elementor-widget-container{margin:0px 0px 0px -100px;}.elementor-18 .elementor-element.elementor-element-734294a.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-18 .elementor-element.elementor-element-734294a .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:80px;font-weight:600;letter-spacing:0.4px;color:#FFFFFF;}.elementor-18 .elementor-element.elementor-element-47a1be8{padding:80px 0px 60px 0px;}.elementor-18 .elementor-element.elementor-element-9da3588{text-align:left;}.elementor-18 .elementor-element.elementor-element-9da3588 .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:45px;font-weight:500;line-height:60px;letter-spacing:0.4px;color:#2F2F2F;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-18 .elementor-element.elementor-element-6b5b010{font-family:"Playfair Display", Sans-serif;font-size:14px;font-weight:300;text-transform:uppercase;font-style:normal;letter-spacing:3px;color:#2EA5B4;}.elementor-18 .elementor-element.elementor-element-4b58a9f > .elementor-element-populated{padding:20px 50px 0px 50px;}.elementor-18 .elementor-element.elementor-element-7a5610f{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;line-height:22px;letter-spacing:0.4px;}.elementor-18 .elementor-element.elementor-element-f24e250 > .elementor-element-populated{padding:20px 50px 0px 50px;}.elementor-18 .elementor-element.elementor-element-cbebd96{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;line-height:22px;letter-spacing:0.4px;}.elementor-18 .elementor-element.elementor-element-48c07fc{padding:0px 0px 120px 0px;}.elementor-18 .elementor-element.elementor-element-1f8e1b9 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:100px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-1f8e1b9 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-18 .elementor-element.elementor-element-3102649 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 70px 0px 50px;}.elementor-18 .elementor-element.elementor-element-3102649{text-align:center;}.elementor-18 .elementor-element.elementor-element-3102649 img{border-radius:15px 15px 15px 15px;}.elementor-18 .elementor-element.elementor-element-d05d289 > .elementor-element-populated{margin:60px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 20px 0px 40px;}.elementor-widget-divider{--divider-color:var( --e-global-color-secondary );}.elementor-widget-divider .elementor-divider__text{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-secondary );}.elementor-18 .elementor-element.elementor-element-a16d0ff{--divider-border-style:solid;--divider-color:#2EA5B4;--divider-border-width:1px;}.elementor-18 .elementor-element.elementor-element-a16d0ff .elementor-divider-separator{width:60px;}.elementor-18 .elementor-element.elementor-element-a16d0ff .elementor-divider{padding-block-start:15px;padding-block-end:15px;}.elementor-18 .elementor-element.elementor-element-d092300{font-family:"Open Sans", Sans-serif;font-size:17px;font-weight:500;text-transform:uppercase;font-style:italic;line-height:32px;letter-spacing:0.4px;color:#2F2F2F;}.elementor-18 .elementor-element.elementor-element-e8d3796 > .elementor-widget-container{margin:15px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-e8d3796 .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:16px;font-weight:400;letter-spacing:0.4px;color:#2EA5B4;}.elementor-18 .elementor-element.elementor-element-fe1f1fd > .elementor-widget-container{margin:-10px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-fe1f1fd .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.4px;color:#767676FA;}.elementor-18 .elementor-element.elementor-element-c30c299{padding:80px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-7f52a79 > .elementor-widget-container{padding:0px 0px 30px 0px;}.elementor-18 .elementor-element.elementor-element-7f52a79{text-align:center;}.elementor-18 .elementor-element.elementor-element-7f52a79 .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:35px;font-weight:500;letter-spacing:0.4px;color:#2F2F2F;}.elementor-18 .elementor-element.elementor-element-da81b42{text-align:center;}.elementor-18 .elementor-element.elementor-element-8c01275{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-18 .elementor-element.elementor-element-5de6eda{--display:grid;--e-con-grid-template-columns:repeat(3, 1fr);--e-con-grid-template-rows:repeat(1, 1fr);--grid-auto-flow:row;}.elementor-18 .elementor-element.elementor-element-7f0bd45a{--display:flex;--min-height:500px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--overlay-opacity:0.5;--margin-top:20px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-18 .elementor-element.elementor-element-7f0bd45a:not(.elementor-motion-effects-element-type-background), .elementor-18 .elementor-element.elementor-element-7f0bd45a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("./../wp-content/uploads/2025/10/girl-with-ethnic-clothes-on-top-hill.jpg");background-position:center center;background-size:cover;}.elementor-18 .elementor-element.elementor-element-7f0bd45a::before, .elementor-18 .elementor-element.elementor-element-7f0bd45a > .elementor-background-video-container::before, .elementor-18 .elementor-element.elementor-element-7f0bd45a > .e-con-inner > .elementor-background-video-container::before, .elementor-18 .elementor-element.elementor-element-7f0bd45a > .elementor-background-slideshow::before, .elementor-18 .elementor-element.elementor-element-7f0bd45a > .e-con-inner > .elementor-background-slideshow::before, .elementor-18 .elementor-element.elementor-element-7f0bd45a > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:#1E1B1E;--background-overlay:'';}.elementor-18 .elementor-element.elementor-element-245cb0bf{width:var( --container-widget-width, 396.766% );max-width:396.766%;--container-widget-width:396.766%;--container-widget-flex-grow:0;text-align:center;}.elementor-18 .elementor-element.elementor-element-245cb0bf > .elementor-widget-container{margin:-15px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-245cb0bf.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-18 .elementor-element.elementor-element-245cb0bf .elementor-heading-title{font-family:"Playfair Display", Sans-serif;font-size:45px;font-weight:500;letter-spacing:0.4px;color:#FFFFFF;}.elementor-18 .elementor-element.elementor-element-7dd4fc33 > .elementor-widget-container{padding:5px 0px 10px 0px;}.elementor-18 .elementor-element.elementor-element-7dd4fc33{text-align:center;font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:400;line-height:22px;letter-spacing:0.4px;color:#E9E9E9;}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-18 .elementor-element.elementor-element-242530db .elementor-button{background-color:#2EA5B4;border-radius:15px 15px 15px 15px;}.elementor-18 .elementor-element.elementor-element-242530db .elementor-button-content-wrapper{flex-direction:row;}.elementor-18 .elementor-element.elementor-element-242530db .elementor-button .elementor-button-content-wrapper{gap:13px;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-18 .elementor-element.elementor-element-f2e3a26{width:100%;}.elementor-18 .elementor-element.elementor-element-c83f46d{width:26%;}.elementor-18 .elementor-element.elementor-element-4b58a9f{width:36.666%;}.elementor-18 .elementor-element.elementor-element-f24e250{width:37%;}}@media(max-width:1024px){.elementor-18 .elementor-element.elementor-element-6f74ff4{margin-top:101px;margin-bottom:0px;padding:120px 0px 100px 0px;}.elementor-18 .elementor-element.elementor-element-734294a .elementor-heading-title{font-size:60px;}.elementor-18 .elementor-element.elementor-element-47a1be8{padding:60px 60px 60px 60px;}.elementor-18 .elementor-element.elementor-element-c83f46d > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-9da3588 > .elementor-widget-container{margin:36px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-9da3588 .elementor-heading-title{font-size:34px;line-height:50px;}.elementor-18 .elementor-element.elementor-element-4b58a9f > .elementor-element-populated{padding:40px 0px 0px 30px;}.elementor-18 .elementor-element.elementor-element-f24e250 > .elementor-element-populated{padding:40px 0px 0px 30px;}.elementor-18 .elementor-element.elementor-element-48c07fc{padding:0px 60px 100px 60px;}.elementor-18 .elementor-element.elementor-element-1f8e1b9 > .elementor-element-populated{padding:100px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-3102649 > .elementor-widget-container{padding:0px 30px 0px 0px;}.elementor-18 .elementor-element.elementor-element-d05d289 > .elementor-element-populated{margin:30px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-e8d3796 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-7f52a79 .elementor-heading-title{font-size:34px;}.elementor-18 .elementor-element.elementor-element-5de6eda{--grid-auto-flow:row;}.elementor-18 .elementor-element.elementor-element-245cb0bf .elementor-heading-title{font-size:34px;}}@media(max-width:767px){.elementor-18 .elementor-element.elementor-element-6f74ff4{margin-top:30px;margin-bottom:0px;padding:90px 0px 80px 0px;}.elementor-18 .elementor-element.elementor-element-734294a > .elementor-widget-container{margin:0px 0px 0px -130px;}.elementor-18 .elementor-element.elementor-element-734294a .elementor-heading-title{font-size:45px;}.elementor-18 .elementor-element.elementor-element-47a1be8{padding:60px 30px 0px 30px;}.elementor-18 .elementor-element.elementor-element-9da3588 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-9da3588 .elementor-heading-title{font-size:30px;line-height:40px;}.elementor-18 .elementor-element.elementor-element-4b58a9f > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-f24e250 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-48c07fc{padding:0px 30px 80px 30px;}.elementor-18 .elementor-element.elementor-element-1f8e1b9 > .elementor-element-populated{padding:40px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-3102649 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-d05d289 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-18 .elementor-element.elementor-element-d092300{font-size:16px;}.elementor-18 .elementor-element.elementor-element-c30c299{padding:60px 30px 0px 30px;}.elementor-18 .elementor-element.elementor-element-7f52a79 .elementor-heading-title{font-size:30px;}.elementor-18 .elementor-element.elementor-element-5de6eda{--e-con-grid-template-columns:repeat(1, 1fr);--grid-auto-flow:row;}.elementor-18 .elementor-element.elementor-element-245cb0bf .elementor-heading-title{font-size:30px;line-height:45px;}.elementor-18 .elementor-element.elementor-element-7dd4fc33 > .elementor-widget-container{padding:0px 0px 0px 0px;}}@media(min-width:1025px){.elementor-18 .elementor-element.elementor-element-6f74ff4:not(.elementor-motion-effects-element-type-background), .elementor-18 .elementor-element.elementor-element-6f74ff4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}.elementor-18 .elementor-element.elementor-element-7f0bd45a:not(.elementor-motion-effects-element-type-background), .elementor-18 .elementor-element.elementor-element-7f0bd45a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}
 .elementor-274 .elementor-element.elementor-element-32bfc0d4:not(.elementor-motion-effects-element-type-background), .elementor-274 .elementor-element.elementor-element-32bfc0d4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF00;}.elementor-274 .elementor-element.elementor-element-32bfc0d4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:15px 0px 0px 0px;}.elementor-274 .elementor-element.elementor-element-32bfc0d4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-274 .elementor-element.elementor-element-54a40664.elementor-column .elementor-widget-wrap{align-items:flex-end;}.elementor-274 .elementor-element.elementor-element-54a40664.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-end;align-items:flex-end;}.elementor-274 .elementor-element.elementor-element-b4c77ba > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba{text-align:left;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo{padding:0px 0px 0px 0px;border-style:none;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-image{max-width:500px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-left .wpr-logo-image{margin-right:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-right .wpr-logo-image{margin-left:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-center .wpr-logo-image{margin-bottom:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-image img{-webkit-transition-duration:0.7s;transition-duration:0.7s;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-title{color:#605BE5;margin:0 0 0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-description{color:#888888;}.elementor-bc-flex-widget .elementor-274 .elementor-element.elementor-element-306600e5.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-274 .elementor-element.elementor-element-306600e5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item:before{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item:after{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-mobile-toggle-wrap{text-align:center;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu .wpr-menu-item,
 					 .elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu > .menu-item-has-children > .wpr-sub-icon{color:#2F2F2F;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu .wpr-menu-item:hover,
 					 .elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu > .menu-item-has-children:hover > .wpr-sub-icon,
@@ -233,7 +230,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="stylesheet" id="brands-styles-css" href="./../wp-content/plugins/woocommerce/assets/css/brands.css?ver=10.3.3" type="text/css" media="all">
 <link rel="stylesheet" id="royal-elementor-kit-style-css" href="./../wp-content/themes/royal-elementor-kit/style.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="e-animation-fadeInUp-css" href="./../wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.32.4" type="text/css" media="all">
-<link rel="stylesheet" id="widget-star-rating-css" href="./../wp-content/plugins/elementor/assets/css/widget-star-rating.min.css?ver=3.32.4" type="text/css" media="all">
+<link rel="stylesheet" id="widget-image-css" href="./../wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.4" type="text/css" media="all">
 <link rel="stylesheet" id="e-animation-fadeInLeft-css" href="./../wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.32.4" type="text/css" media="all">
 <link rel="stylesheet" id="e-animation-slideInLeft-css" href="./../wp-content/plugins/elementor/assets/lib/animations/styles/slideInLeft.min.css?ver=3.32.4" type="text/css" media="all">
 <link rel="stylesheet" id="e-animation-bounceIn-css" href="./../wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.32.4" type="text/css" media="all">
@@ -274,13 +271,13 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 /* ]]> */
 </script>
 <script type="text/javascript" src="./../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.3.3" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-<link rel="https://api.w.org/" href="./../wp-json/index.html"><link rel="alternate" title="JSON" type="application/json" href="./../wp-json/wp/v2/pages/22/index.html"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../xmlrpc.php?rsd">
+<link rel="https://api.w.org/" href="./../wp-json/index.html"><link rel="alternate" title="JSON" type="application/json" href="./../wp-json/wp/v2/pages/18/index.html"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.8.3">
 <meta name="generator" content="WooCommerce 10.3.3">
 <link rel="canonical" href="./index.html">
-<link rel="shortlink" href="./../index.html?p=22">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2Ftestimonials%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2Ftestimonials%2F&amp;format=xml">
+<link rel="shortlink" href="./../index.html?p=18">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2Four-journey%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2Four-journey%2F&amp;format=xml">
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<link rel="icon" href="./../wp-content/uploads/2025/10/image-removebg-preview-26-100x100.png" sizes="32x32">
 <link rel="icon" href="./../wp-content/uploads/2025/10/image-removebg-preview-26.png" sizes="192x192">
@@ -493,9 +490,11 @@ a.product_type_simple:hover {
 				.lg-thumb-item.active {
 					opacity: 1;
 				}
-	         </style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
-<body class="wp-singular page-template page-template-elementor_canvas page page-id-22 wp-embed-responsive wp-theme-royal-elementor-kit theme-royal-elementor-kit woocommerce-no-js elementor-default elementor-template-canvas elementor-kit-10 elementor-page elementor-page-22">
-	<style>.elementor-274 .elementor-element.elementor-element-32bfc0d4:not(.elementor-motion-effects-element-type-background), .elementor-274 .elementor-element.elementor-element-32bfc0d4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF00;}.elementor-274 .elementor-element.elementor-element-32bfc0d4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:15px 0px 0px 0px;}.elementor-274 .elementor-element.elementor-element-32bfc0d4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-274 .elementor-element.elementor-element-54a40664.elementor-column .elementor-widget-wrap{align-items:flex-end;}.elementor-274 .elementor-element.elementor-element-54a40664.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-end;align-items:flex-end;}.elementor-274 .elementor-element.elementor-element-b4c77ba > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba{text-align:left;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo{padding:0px 0px 0px 0px;border-style:none;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-image{max-width:500px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-left .wpr-logo-image{margin-right:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-right .wpr-logo-image{margin-left:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-center .wpr-logo-image{margin-bottom:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-image img{-webkit-transition-duration:0.7s;transition-duration:0.7s;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-title{color:#605BE5;margin:0 0 0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-description{color:#888888;}.elementor-bc-flex-widget .elementor-274 .elementor-element.elementor-element-306600e5.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-274 .elementor-element.elementor-element-306600e5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item:before{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item:after{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-mobile-toggle-wrap{text-align:center;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu .wpr-menu-item,
+	         </style>    </head>
+
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-18 wp-embed-responsive wp-theme-royal-elementor-kit theme-royal-elementor-kit woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-10 elementor-page elementor-page-18">
+
+<style>.elementor-274 .elementor-element.elementor-element-32bfc0d4:not(.elementor-motion-effects-element-type-background), .elementor-274 .elementor-element.elementor-element-32bfc0d4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF00;}.elementor-274 .elementor-element.elementor-element-32bfc0d4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:15px 0px 0px 0px;}.elementor-274 .elementor-element.elementor-element-32bfc0d4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-274 .elementor-element.elementor-element-54a40664.elementor-column .elementor-widget-wrap{align-items:flex-end;}.elementor-274 .elementor-element.elementor-element-54a40664.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-end;align-items:flex-end;}.elementor-274 .elementor-element.elementor-element-b4c77ba > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba{text-align:left;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo{padding:0px 0px 0px 0px;border-style:none;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-image{max-width:500px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-left .wpr-logo-image{margin-right:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-right .wpr-logo-image{margin-left:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba.wpr-logo-position-center .wpr-logo-image{margin-bottom:0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-image img{-webkit-transition-duration:0.7s;transition-duration:0.7s;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-title{color:#605BE5;margin:0 0 0px;}.elementor-274 .elementor-element.elementor-element-b4c77ba .wpr-logo-description{color:#888888;}.elementor-bc-flex-widget .elementor-274 .elementor-element.elementor-element-306600e5.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-274 .elementor-element.elementor-element-306600e5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item:before{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-menu-item.wpr-pointer-item:after{transition-duration:0.2s;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-mobile-toggle-wrap{text-align:center;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu .wpr-menu-item,
 					 .elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu > .menu-item-has-children > .wpr-sub-icon{color:#2F2F2F;}.elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu .wpr-menu-item:hover,
 					 .elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu > .menu-item-has-children:hover > .wpr-sub-icon,
 					 .elementor-274 .elementor-element.elementor-element-42c4e46d .wpr-nav-menu .wpr-menu-item.wpr-active-menu-item,
@@ -593,528 +592,180 @@ a.product_type_simple:hover {
 					</div>
 		</section>
 				</div>
-				<div data-elementor-type="wp-page" data-elementor-id="22" class="elementor elementor-22">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-6c87814 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="6c87814" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div data-elementor-type="wp-page" data-elementor-id="18" class="elementor elementor-18">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-6f74ff4 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="6f74ff4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13c0953" data-id="13c0953" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f2e3a26" data-id="f2e3a26" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-76b3582 elementor-invisible elementor-widget elementor-widget-heading" data-id="76b3582" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-734294a elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="734294a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h1 class="elementor-heading-title elementor-size-default">Testimonials</h1>				</div>
+					<h1 class="elementor-heading-title elementor-size-default">Our Journey</h1>				</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-173e533 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="173e533" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-47a1be8 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="47a1be8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d68c95b" data-id="d68c95b" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c83f46d" data-id="c83f46d" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-895a12f elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="895a12f" data-element_type="section">
+						<div class="elementor-element elementor-element-9da3588 elementor-widget elementor-widget-heading" data-id="9da3588" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Luxury Glamping Experience in Pakistan</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6b5b010 elementor-widget elementor-widget-text-editor" data-id="6b5b010" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Wanderlust Pakistan</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4b58a9f" data-id="4b58a9f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7a5610f elementor-widget elementor-widget-text-editor" data-id="7a5610f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>What started as a dream to connect people with nature has now become one of Pakistan’s most inspiring hospitality stories. At Wanderlust, we bring comfort and creativity together—offering stays that let you enjoy the wild beauty of mountains, valleys, and forests without missing the luxury you deserve. Each glamp and room is designed with care, giving you a peaceful escape that feels both natural and modern.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f24e250" data-id="f24e250" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cbebd96 elementor-widget elementor-widget-text-editor" data-id="cbebd96" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Every part of your stay tells a story—of passion, craftsmanship, and adventure. From beautifully handcrafted domes to cozy rustic rooms, Wanderlust creates spaces that reflect the calm of nature and the warmth of home. Whether you seek relaxation or exploration, our glamps promise an unforgettable experience built around trust, comfort, and inspiration.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-48c07fc elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="48c07fc" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1863938" data-id="1863938" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1f8e1b9" data-id="1f8e1b9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-b721af7 elementor-widget elementor-widget-text-editor" data-id="b721af7" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-3102649 elementor-widget elementor-widget-image" data-id="3102649" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-									<p>5.0</p>								</div>
+															<img fetchpriority="high" decoding="async" width="800" height="504" src="./../wp-content/uploads/2025/10/man-standing-near-tent-which-sits-women-against-beautiful-scenery-mighty-mountains-fog-under-120001380-ezgif.com-webp-to-jpg-converter.jpg" class="attachment-large size-large wp-image-1597" alt="" srcset="./../wp-content/uploads/2025/10/man-standing-near-tent-which-sits-women-against-beautiful-scenery-mighty-mountains-fog-under-120001380-ezgif.com-webp-to-jpg-converter.jpg 800w, ./../wp-content/uploads/2025/10/man-standing-near-tent-which-sits-women-against-beautiful-scenery-mighty-mountains-fog-under-120001380-ezgif.com-webp-to-jpg-converter-600x378.jpg 600w, ./../wp-content/uploads/2025/10/man-standing-near-tent-which-sits-women-against-beautiful-scenery-mighty-mountains-fog-under-120001380-ezgif.com-webp-to-jpg-converter-300x189.jpg 300w, ./../wp-content/uploads/2025/10/man-standing-near-tent-which-sits-women-against-beautiful-scenery-mighty-mountains-fog-under-120001380-ezgif.com-webp-to-jpg-converter-768x484.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">															</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0fce03c" data-id="0fce03c" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d05d289" data-id="d05d289" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-ea01fb8 elementor-star-rating-mobile--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="ea01fb8" data-element_type="widget" data-widget_type="star-rating.default">
+						<div class="elementor-element elementor-element-a16d0ff elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a16d0ff" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
-					
-		<div class="elementor-star-rating__wrapper">
-						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-d143115 elementor-widget elementor-widget-text-editor" data-id="d143115" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-d092300 elementor-widget elementor-widget-text-editor" data-id="d092300" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>1000+ reviews</p>								</div>
+									<p>Inspired by nature and driven by passion, we’ve built more than just places to stay — we’ve created experiences that connect hearts to the beauty of Pakistan. Every glamp, every cabin, and every view reflects a story of hard work, trust, and imagination.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-e8d3796 elementor-widget elementor-widget-heading" data-id="e8d3796" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sumaan Naeem</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fe1f1fd elementor-widget elementor-widget-heading" data-id="fe1f1fd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Founder, Glamplex Resort &amp; Wanderlust Pakistan</h2>				</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-69e47e2" data-id="69e47e2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-b2a38cf elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="b2a38cf" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c30c299 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="c30c299" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1e6067d" data-id="1e6067d" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7d14955" data-id="7d14955" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-cd1ca00 elementor-view-default elementor-widget elementor-widget-icon" data-id="cd1ca00" data-element_type="widget" data-widget_type="icon.default">
+						<div class="elementor-element elementor-element-7f52a79 elementor-widget elementor-widget-heading" data-id="7f52a79" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<svg aria-hidden="true" class="e-font-icon-svg e-fab-pinterest" viewbox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><path d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg>			</div>
-		</div>
-						</div>
+					<h2 class="elementor-heading-title elementor-size-default">Experience Glamplex in Motion</h2>				</div>
 				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bc0ba10" data-id="bc0ba10" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-de920b4 elementor-widget elementor-widget-text-editor" data-id="de920b4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-da81b42 elementor-widget elementor-widget-text-editor" data-id="da81b42" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>5/5</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-04066d6 elementor-widget elementor-widget-text-editor" data-id="04066d6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>600+ reviews</p>								</div>
+									<p>See how luxury meets adventure — straight from our guests’ and team’s lens. Explore the magic of Glamplex through real moments captured on Instagram.</p>								</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-cb6246e" data-id="cb6246e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-c35982e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="c35982e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c0021db" data-id="c0021db" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-f442346 elementor-view-default elementor-widget elementor-widget-icon" data-id="f442346" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>			</div>
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2458a46" data-id="2458a46" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-83af9ef elementor-widget elementor-widget-text-editor" data-id="83af9ef" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>5/5</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-36a4729 elementor-widget elementor-widget-text-editor" data-id="36a4729" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>400+ reviews</p>								</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7c56c6d" data-id="7c56c6d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-c478748 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="c478748" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c5a025e" data-id="c5a025e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-c21d716 elementor-view-default elementor-widget elementor-widget-icon" data-id="c21d716" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>			</div>
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5c6ef57" data-id="5c6ef57" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-47d3c26 elementor-widget elementor-widget-text-editor" data-id="47d3c26" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>5/5</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-db9d67c elementor-widget elementor-widget-text-editor" data-id="db9d67c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>800+ reviews</p>								</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-634496d elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="634496d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-11accb8" data-id="11accb8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-ab781d1 wpr-testimonial-meta-position-extra wpr-testimonial-slider-columns-1 wpr-testimonial-slider-columns--tablet1 wpr-testimonial-slider-columns--mobile1 wpr-testimonial-rating-style_2 wpr-testimonial-meta-align-center elementor-widget elementor-widget-wpr-testimonial" data-id="ab781d1" data-element_type="widget" data-settings="{&quot;testimonial_slides_to_scroll&quot;:1,&quot;testimonial_amount&quot;:&quot;1&quot;,&quot;testimonial_amount_tablet&quot;:&quot;1&quot;,&quot;testimonial_amount_mobile&quot;:1,&quot;testimonial_loop&quot;:&quot;yes&quot;}" data-widget_type="wpr-testimonial.default">
-				<div class="elementor-widget-container">
-							<div class="wpr-testimonial-carousel-wrap">
-			
-			<div class="wpr-testimonial-carousel" dir="ltr" data-slick="{&quot;rtl&quot;:false,&quot;infinite&quot;:true,&quot;speed&quot;:700,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:0,&quot;pauseOnHover&quot;:&quot;&quot;,&quot;prevArrow&quot;:&quot;#wpr-testimonial-prev-ab781d1&quot;,&quot;nextArrow&quot;:&quot;#wpr-testimonial-next-ab781d1&quot;,&quot;sliderSlidesToScroll&quot;:1}" data-slide-effect="slide">
-					
-					
-											
-						<div class="wpr-testimonial-item elementor-repeater-item-39f25c4 elementor-clearfix">
-							
-							<div class="wpr-testimonial-meta elementor-clearfix">
-								<div class="wpr-testimonial-meta-inner">
-								
-					<div class="wpr-testimonial-image">
-				<img decoding="async" src="./../wp-content/uploads/2025/10/profile-pic-1.png" alt="Ayesha Khan">
-			</div>
-		
-									</div>
-							</div>
-
-							
-		<div class="wpr-testimonial-content-wrap">
-			<div class="wpr-testimonial-content-inner">
-			
-			
-								
-
-			<div class="wpr-testimonial-rating">
-			
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-9">☆</i>
-                        
-                                    
-
-	     	
-	     				</div>
-
-				
-							<div class="wpr-testimonial-content">
-					
-					<p></p><p><strong data-start="166" data-end="200">“An unforgettable experience!”</strong><br data-start="200" data-end="203">The villa was super cozy and clean, with every small detail taken care of. The view from Kuldana Hills was just beautiful. Totally worth the money and highly recommended for couples or families.</p>
-				</div>
-			
-			
-						</div>
-		</div>
-
-	    
-															<div class="wpr-testimonial-meta elementor-clearfix">
-									<div class="wpr-testimonial-meta-inner">
-											
-		<div class="wpr-testimonial-meta-content-wrap">
-							<div class="wpr-testimonial-name">Ayesha Khan</div>
-			
-			
-			
-		</div>
-											</div>	
-								</div>
-							
-						</div>
-						
-											
-						<div class="wpr-testimonial-item elementor-repeater-item-561811a elementor-clearfix">
-							
-							<div class="wpr-testimonial-meta elementor-clearfix">
-								<div class="wpr-testimonial-meta-inner">
-								
-					<div class="wpr-testimonial-image">
-				<img decoding="async" src="./../wp-content/uploads/2025/10/profile-pic-4.png" alt="Ali Raza">
-			</div>
-		
-									</div>
-							</div>
-
-							
-		<div class="wpr-testimonial-content-wrap">
-			<div class="wpr-testimonial-content-inner">
-			
-			
-								
-
-			<div class="wpr-testimonial-rating">
-			
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-	     				</div>
-
-				
-							<div class="wpr-testimonial-content">
-					
-					<p></p><p><strong data-start="703" data-end="759">“Everything was perfect from check-in to check-out.”</strong><br data-start="759" data-end="762">The rooms were neat, Wi-Fi was strong, and the ambiance was just lovely. Indoor games were a fun bonus! I’ll definitely be coming again with my friends next time.</p>
-				</div>
-			
-			
-						</div>
-		</div>
-
-	    
-															<div class="wpr-testimonial-meta elementor-clearfix">
-									<div class="wpr-testimonial-meta-inner">
-											
-		<div class="wpr-testimonial-meta-content-wrap">
-							<div class="wpr-testimonial-name">Ali Raza</div>
-			
-			
-			
-		</div>
-											</div>	
-								</div>
-							
-						</div>
-						
-											
-						<div class="wpr-testimonial-item elementor-repeater-item-52b3684 elementor-clearfix">
-							
-							<div class="wpr-testimonial-meta elementor-clearfix">
-								<div class="wpr-testimonial-meta-inner">
-								
-					<div class="wpr-testimonial-image">
-				<img decoding="async" src="./../wp-content/uploads/2025/10/profile-pic-2.png" alt="Sadia Fatima">
-			</div>
-		
-									</div>
-							</div>
-
-							
-		<div class="wpr-testimonial-content-wrap">
-			<div class="wpr-testimonial-content-inner">
-			
-			
-								
-
-			<div class="wpr-testimonial-rating">
-			
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-8">☆</i>
-                        
-                                    
-
-	     	
-	     				</div>
-
-				
-							<div class="wpr-testimonial-content">
-					
-					<p></p><p><strong data-start="441" data-end="491">“Best hospitality I’ve experienced in Murree.”</strong><br data-start="491" data-end="494">The staff was very polite, and the breakfast was fresh and delicious. Loved the bonfire setup at night. It felt peaceful and private — exactly what I needed to relax.</p>
-				</div>
-			
-			
-						</div>
-		</div>
-
-	    
-															<div class="wpr-testimonial-meta elementor-clearfix">
-									<div class="wpr-testimonial-meta-inner">
-											
-		<div class="wpr-testimonial-meta-content-wrap">
-							<div class="wpr-testimonial-name">Sadia Fatima</div>
-			
-			
-			
-		</div>
-											</div>	
-								</div>
-							
-						</div>
-						
-											
-						<div class="wpr-testimonial-item elementor-repeater-item-3a9b967 elementor-clearfix">
-							
-							<div class="wpr-testimonial-meta elementor-clearfix">
-								<div class="wpr-testimonial-meta-inner">
-								
-					<div class="wpr-testimonial-image">
-				<img decoding="async" src="./../wp-content/uploads/2025/10/profile-pic-3.png" alt="Sana Ahmed">
-			</div>
-		
-									</div>
-							</div>
-
-							
-		<div class="wpr-testimonial-content-wrap">
-			<div class="wpr-testimonial-content-inner">
-			
-			
-								
-
-			<div class="wpr-testimonial-rating">
-			
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-
-                                    
-                                                    <i class="wpr-rating-icon-full">☆</i>
-                        
-                                    
-
-	     	
-	     				</div>
-
-				
-							<div class="wpr-testimonial-content">
-					
-					<p></p><p><strong data-start="965" data-end="998">“Luxury with nature’s touch!”</strong><br data-start="998" data-end="1001">I loved how the place combines comfort and nature together. The candlelight dinner setup was so romantic. Thank you Wanderlust team for making our trip memorable.</p>
-				</div>
-			
-			
-						</div>
-		</div>
-
-	    
-															<div class="wpr-testimonial-meta elementor-clearfix">
-									<div class="wpr-testimonial-meta-inner">
-											
-		<div class="wpr-testimonial-meta-content-wrap">
-							<div class="wpr-testimonial-name">Sana Ahmed</div>
-			
-			
-			
-		</div>
-											</div>	
-								</div>
-							
-						</div>
-									</div>
-
-			<div class="wpr-testimonial-controls">
-				<div class="wpr-testimonial-dots"></div>
-			</div>
-
-			<div class="wpr-testimonial-arrow-container">
-				<div class="wpr-testimonial-prev-arrow wpr-testimonial-arrow" id="wpr-testimonial-prev-ab781d1">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 283.4 512" style="enable-background:new 0 0 283.4 512;" xml:space="preserve"><g><polygon class="st0" points="54.5,256.3 283.4,485.1 256.1,512.5 0,256.3 0,256.3 27.2,229 256.1,0 283.4,27.4 "></polygon></g></svg>				</div>
-				<div class="wpr-testimonial-next-arrow wpr-testimonial-arrow" id="wpr-testimonial-next-ab781d1">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 283.4 512" style="enable-background:new 0 0 283.4 512;" xml:space="preserve"><g><polygon class="st0" points="54.5,256.3 283.4,485.1 256.1,512.5 0,256.3 0,256.3 27.2,229 256.1,0 283.4,27.4 "></polygon></g></svg>				</div>
-			</div>
-		</div>
-
-					</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-		<div class="elementor-element elementor-element-773862b3 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="773862b3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-8c01275 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="8c01275" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3a8cbb0c elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="3a8cbb0c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
+		<div class="elementor-element elementor-element-5de6eda e-grid e-con-full wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="5de6eda" data-element_type="container">
+				<div class="elementor-element elementor-element-ebff7ad elementor-widget elementor-widget-text-editor" data-id="ebff7ad" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<!-- Instagram Embed without captions -->
+<style>
+/* Hide captions, usernames, and footer links from Instagram embeds */
+.instagram-media p,
+.instagram-media span,
+.instagram-media footer,
+.instagram-media a[href*="glamplex.pk"] {
+    display: none !important;
+}
+</style>
+
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin: 20px auto; max-width: 540px; min-width: 326px; padding: 0; width: 100%;" data-instgrm-permalink="https://www.instagram.com/reel/DBTpJ97oF0i/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+</blockquote>
+
+<script async src="//www.instagram.com/embed.js"></script>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-3577dba elementor-widget elementor-widget-text-editor" data-id="3577dba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<!-- Instagram Embed without captions -->
+<style>
+/* Hide captions, usernames, and footer links */
+.instagram-media p,
+.instagram-media span,
+.instagram-media footer,
+.instagram-media a[href*="glamplex.pk"],
+.instagram-media a[href*="sac_autism_center"] {
+    display: none !important;
+}
+</style>
+
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin: 20px auto; max-width: 540px; min-width: 326px; padding: 0; width: 100%;" data-instgrm-permalink="https://www.instagram.com/reel/DB2OPYtozSe/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+</blockquote>
+
+<script async src="//www.instagram.com/embed.js"></script>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-c925b7f elementor-widget elementor-widget-text-editor" data-id="c925b7f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<!-- Instagram Reel Clean Embed -->
+<style>
+/* Hide captions, usernames, and footer links */
+.instagram-media p,
+.instagram-media span,
+.instagram-media footer,
+.instagram-media a[href*="glamplex.pk"],
+.instagram-media a[href*="sac_autism_center"] {
+    display: none !important;
+}
+</style>
+
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin: 20px auto; max-width: 540px; min-width: 326px; padding: 0; width: 100%;" data-instgrm-permalink="https://www.instagram.com/reel/DB68ic1uXHo/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+</blockquote>
+
+<script async src="//www.instagram.com/embed.js"></script>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7f0bd45a e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="7f0bd45a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-245cb0bf elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="245cb0bf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-default">Ready to Experience Glamping in Pakistan?</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-22cf9f80 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="22cf9f80" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-7dd4fc33 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7dd4fc33" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									<p>Discover beautiful destinations, luxury glamps, and peaceful escapes — all planned and managed with care by Wanderlust Pakistan.</p>								</div>
 				</div>
-				<div class="elementor-element elementor-element-b71cd3a elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="b71cd3a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceIn&quot;}" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-242530db elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="242530db" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceIn&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
 					<a class="elementor-button elementor-button-link elementor-size-sm" href="tel:+923010528888">
@@ -1145,7 +796,7 @@ a.product_type_simple:hover {
 				</div>
 				<div class="elementor-element elementor-element-2c811db3 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="2c811db3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><a href="./../index.html">HOME</a></p><p><a href="./../our-journey/index.html">OUR JOURNEY</a></p><p><a href="./../wander-stays/index.html">WANDER STAYS</a></p><p><a href="./index.html">TESTIMONIALS</a></p><p><a href="./../contact-us/index.html">CONTACT US</a></p>								</div>
+									<p><a href="./../index.html">HOME</a></p><p><a href="./index.html">OUR JOURNEY</a></p><p><a href="./../wander-stays/index.html">WANDER STAYS</a></p><p><a href="./../testimonials/index.html">TESTIMONIALS</a></p><p><a href="./../contact-us/index.html">CONTACT US</a></p>								</div>
 				</div>
 					</div>
 		</div>
@@ -1283,7 +934,7 @@ a.product_type_simple:hover {
 
 <button type="submit" class="button btn xoo-el-action-btn xoo-el-login-btn">Sign in</button>
 
-<input type="hidden" name="xoo_el_redirect" value="/testimonials/?simply_static_page=3568">
+<input type="hidden" name="xoo_el_redirect" value="/our-journey/?simply_static_page=3569">
 					
 				</form>
 
@@ -1319,7 +970,7 @@ a.product_type_simple:hover {
 
 <button type="submit" class="button btn xoo-el-action-btn xoo-el-register-btn">Sign Up</button>
 
-<input type="hidden" name="xoo_el_redirect" value="/testimonials/?simply_static_page=3568">
+<input type="hidden" name="xoo_el_redirect" value="/our-journey/?simply_static_page=3569">
 					
 				</form>
 
@@ -1351,7 +1002,7 @@ a.product_type_simple:hover {
 
 <input type="hidden" name="_xoo_el_form" value="lostPassword">
 
-<input type="hidden" name="_wp_http_referer" value="/testimonials/?simply_static_page=3568">
+<input type="hidden" name="_wp_http_referer" value="/our-journey/?simply_static_page=3569">
 <button type="submit" class="button btn xoo-el-action-btn xoo-el-lostpw-btn">Email Reset Link</button>
 					
 				</form>
@@ -1487,7 +1138,7 @@ a.product_type_simple:hover {
 	<link rel="stylesheet" id="wc-blocks-style-css" href="./../wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.3.3" type="text/css" media="all">
 <script type="text/javascript" id="xoo-el-js-js-extra">
 /* <![CDATA[ */
-var xoo_el_localize = {"adminurl":"\/\/wp-admin\/admin-ajax.php","redirectDelay":"300","html":{"spinner":"<i class=\"xoo-el-icon-spinner8 xoo-el-spinner\"><\/i>","editField":"<span class=\"xoo-el-edit-em\">Change?<\/span>","notice":{"error":"<div class=\"xoo-el-notice-error \">%s<\/div>","success":"<div class=\"xoo-el-notice-success \">%s<\/div>"}},"autoOpenPopup":"yes","autoOpenPopupOnce":"no","aoDelay":"500","loginClass":"","registerClass":"","errorLog":"no","resetPwPattern":"code","resend_wait":"90","preventClosing":"","hasCodeForms":"1","checkout":{"loginEnabled":"yes","loginRedirect":"\/testimonials\/?simply_static_page=3568"}};
+var xoo_el_localize = {"adminurl":"\/\/wp-admin\/admin-ajax.php","redirectDelay":"300","html":{"spinner":"<i class=\"xoo-el-icon-spinner8 xoo-el-spinner\"><\/i>","editField":"<span class=\"xoo-el-edit-em\">Change?<\/span>","notice":{"error":"<div class=\"xoo-el-notice-error \">%s<\/div>","success":"<div class=\"xoo-el-notice-success \">%s<\/div>"}},"autoOpenPopup":"no","autoOpenPopupOnce":"no","aoDelay":"500","loginClass":"","registerClass":"","errorLog":"no","resetPwPattern":"code","resend_wait":"90","preventClosing":"","hasCodeForms":"1","checkout":{"loginEnabled":"yes","loginRedirect":"\/our-journey\/?simply_static_page=3569"}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="./../wp-content/plugins/easy-login-woocommerce/assets/js/xoo-el-js.js?ver=3.0.1" id="xoo-el-js-js"></script>
@@ -1534,7 +1185,7 @@ wp.date.setSettings( {"l10n":{"locale":"en_US","months":["January","February","M
 <script type="text/javascript" src="./../wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.4" id="elementor-frontend-modules-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.32.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_pro_free_trial_popup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"\/\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/\/wp-admin\/admin-ajax.php","uploadUrl":"\/\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"f0f492a412"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":22,"title":"Testimonials%20%E2%80%93%20wanderlustpakistan.com","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.32.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_pro_free_trial_popup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"\/\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/\/wp-admin\/admin-ajax.php","uploadUrl":"\/\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"f0f492a412"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":18,"title":"Our%20Journey%20%E2%80%93%20wanderlustpakistan.com","excerpt":"","featuredImage":false}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="./../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.4" id="elementor-frontend-js"></script>
@@ -1548,16 +1199,15 @@ var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":fa
 /* ]]> */
 </script>
 <script type="text/javascript" src="./../wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.3.3" id="wc-order-attribution-js"></script>
-<script type="text/javascript" src="./../wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
-<script type="text/javascript" src="./../wp-content/plugins/royal-elementor-addons/assets/js/lib/slick/slick.min.js?ver=1.8.1" id="wpr-slick-js"></script>
 <script type="text/javascript" src="./../wp-content/plugins/royal-elementor-addons/assets/js/lib/perfect-scrollbar/perfect-scrollbar.min.js?ver=0.4.9" id="wpr-popup-scroll-js-js"></script>
 <script type="text/javascript" src="./../wp-content/plugins/royal-elementor-addons/assets/js/lib/dompurify/dompurify.min.js?ver=3.0.6" id="dompurify-js"></script>
 <script type="text/javascript" id="wpr-addons-js-js-extra">
 /* <![CDATA[ */
-var WprConfig = {"ajaxurl":"\/\/wp-admin\/admin-ajax.php","resturl":"\/\/wp-json\/wpraddons\/v1","nonce":"073968aad8","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"\/\/testimonials\/","wishlistPageID":"","wishlistPageURL":"\/\/testimonials\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error","woo_shop_ppp":"9","woo_shop_cat_ppp":"9","woo_shop_tag_ppp":"9","is_product_category":"","is_product_tag":""};
+var WprConfig = {"ajaxurl":"\/\/wp-admin\/admin-ajax.php","resturl":"\/\/wp-json\/wpraddons\/v1","nonce":"073968aad8","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"\/\/our-journey\/","wishlistPageID":"","wishlistPageURL":"\/\/our-journey\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error","woo_shop_ppp":"9","woo_shop_cat_ppp":"9","woo_shop_tag_ppp":"9","is_product_category":"","is_product_tag":""};
 /* ]]> */
 </script>
 <script type="text/javascript" data-cfasync="false" src="./../wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1040" id="wpr-addons-js-js"></script>
 <script type="text/javascript" src="./../wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1040" id="wpr-modal-popups-js-js"></script>
-	</body>
+
+</body>
 </html>

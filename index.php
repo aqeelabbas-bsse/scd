@@ -200,8 +200,78 @@ try {
     <link rel="stylesheet" href="wp-content/plugins/elementor/assets/css/frontend.min.css">
     <link rel="stylesheet" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css">
 
-    <!-- Your custom form CSS -->
-    <style>
+<style>
+
+	/* ===== Fix overlap: header layout proper spacing ===== */
+
+	.elementor-element-306600e5,
+	.elementor-element-2e1cdbb3{
+	min-width: 0 !important;
+	}
+
+	/* Header row container */
+	.elementor-section .elementor-container{
+	display: flex !important;
+	align-items: center !important;
+	justify-content: space-between !important;
+	}
+
+	.elementor-section .elementor-container > .elementor-column.elementor-col-33:first-child{
+	flex: 0 0 230px !important;
+	max-width: 230px !important;
+	}
+
+	/* Menu column */
+	.elementor-column.elementor-element-306600e5{
+	flex: 1 1 auto !important;
+	max-width: none !important;
+	}
+
+	/* Menu links one line */
+	.elementor-element-42c4e46d .wpr-nav-menu{
+	display: flex !important;
+	align-items: center !important;
+	flex-wrap: nowrap !important;
+	white-space: nowrap !important;
+	gap: 12px !important;
+	}
+
+	/* Menu container align */
+	.elementor-element-42c4e46d .wpr-nav-menu-container{
+	display: flex !important;
+	justify-content: center !important;
+	}
+
+	/* Button column smaller */
+	.elementor-column.elementor-element-2e1cdbb3{
+	flex: 0 0 170px !important;
+	max-width: 170px !important;
+	}
+
+	/* Button sizing */
+	.elementor-element-1a8c2969 .wpr-button-text{
+	font-size: 12px !important;
+	letter-spacing: 0.5px !important;
+	}
+	.elementor-element-1a8c2969 .wpr-button{
+	padding: 10px 12px !important;
+	}
+
+	/* Safety: no clipping */
+	.elementor-element-42c4e46d,
+	.elementor-element-42c4e46d .elementor-widget-container,
+	.elementor-element-42c4e46d .wpr-nav-menu-container{
+	overflow: visible !important;
+	}
+
+	/* ===== Your form CSS starts below ===== */
+	.wanderlust-contact-form{
+	/* ... tumhara form wala CSS ... */
+	}
+
+/* ======END */
+
+
     .wanderlust-contact-form {
         background: #ffffff;
         padding: 25px 25px 25px;   /* ↓ yahan 30px → 25px kar diya */
@@ -870,8 +940,10 @@ a.product_type_simple:hover {
 						<div class="elementor-element elementor-element-42c4e46d wpr-main-menu-align-center wpr-nav-menu-bp-tablet wpr-main-menu-align--tabletcenter wpr-main-menu-align--mobilecenter wpr-pointer-underline wpr-pointer-line-fx wpr-pointer-fx-fade wpr-sub-icon-caret-down wpr-sub-menu-fx-fade wpr-mobile-menu-full-width wpr-mobile-menu-item-align-center wpr-mobile-toggle-v1 wpr-sub-divider-yes wpr-mobile-divider-yes elementor-widget elementor-widget-wpr-nav-menu" data-id="42c4e46d" data-element_type="widget" data-settings="{&quot;menu_layout&quot;:&quot;horizontal&quot;}" data-widget_type="wpr-nav-menu.default">
 				<div class="elementor-widget-container">
 					<nav class="wpr-nav-menu-container wpr-nav-menu-horizontal" data-trigger="hover"><ul id="menu-1-42c4e46d" class="wpr-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-800 current_page_item menu-item-804"><a href="./index.php" aria-current="page" class="wpr-menu-item wpr-pointer-item wpr-active-menu-item">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1773"><a href="./wander-stays/index.html" class="wpr-menu-item wpr-pointer-item">Wander Stays</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-936"><a href="./contact-us/index.php" class="wpr-menu-item wpr-pointer-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1773"><a href="./our-journey/index.php" class="wpr-menu-item wpr-pointer-item">Our Journey</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1773"><a href="./wander-stays/index.html" class="wpr-menu-item wpr-pointer-item">Wander Stays</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1773"><a href="./testimonials/index.php" class="wpr-menu-item wpr-pointer-item">Testimonials</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-936"><a href="./contact-us/index.php" class="wpr-menu-item wpr-pointer-item">Contact Us</a></li>
 <li class="xoo-el-login-tgr menu-item menu-item-type-custom menu-item-object-custom menu-item-2064"><a class="wpr-menu-item wpr-pointer-item">Login</a></li>
 </ul></nav><nav class="wpr-mobile-nav-menu-container"><div class="wpr-mobile-toggle-wrap"><div class="wpr-mobile-toggle"><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span></div></div><ul id="mobile-menu-2-42c4e46d" class="wpr-mobile-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-800 current_page_item menu-item-804"><a href="./index.html" aria-current="page" class="wpr-mobile-menu-item wpr-active-menu-item">Home</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1773"><a href="./wander-stays/index.html" class="wpr-mobile-menu-item">Wander Stays</a></li>
@@ -1562,7 +1634,7 @@ Weekends (Fri-Sun)= 28000 PKR</span>				</div>
 				</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-835d99a elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="835d99a" data-element_type="container">
+	
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-04fd54f e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="04fd54f" data-element_type="container">
 				<div class="elementor-element elementor-element-0878928 elementor-widget elementor-widget-heading" data-id="0878928" data-element_type="widget" data-widget_type="heading.default">
