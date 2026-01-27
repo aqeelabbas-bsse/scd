@@ -18,7 +18,7 @@ function sendBookingConfirmationEmail(array $booking, ?string $invoicePath = nul
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'camer4090@gmail.com';
-        $mail->Password   = 'vvphcizpjlerzjhh'; // app password
+        $mail->Password   = 'xwevkhaxrietmxqw'; // app password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
