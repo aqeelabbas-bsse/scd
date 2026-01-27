@@ -1,0 +1,23 @@
+{
+    "name": "wanderlust-pakistan/scd-project",
+    "description": "Tours and Hospitality Website - SCD Project with JUnit Testing Concepts (PHPUnit)",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "classmap": [
+            "tests/utils/"
+        ]
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit tests/TestFormValidator.php",
+        "test-all": "vendor/bin/phpunit tests/",
+        "test-booking": "vendor/bin/phpunit tests/TestBookingFacade.php",
+        "test-runner": "php tests/TestRunner.php"
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" tests="11" assertions="11" errors="0" warnings="0" failures="0" skipped="0" time="0.020571">
+    <testcase name="testPrintMessage" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="33" assertions="1" time="0.014127">
+      <system-out>Hello World
+</system-out>
+    </testcase>
+    <testcase name="testValidateFullNameValid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="51" assertions="1" time="0.000365"/>
+    <testcase name="testValidateFullNameInvalid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="65" assertions="1" time="0.000273"/>
+    <testcase name="testValidateEmailValid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="78" assertions="1" time="0.003440"/>
+    <testcase name="testValidateEmailInvalid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="90" assertions="1" time="0.000314"/>
+    <testcase name="testValidatePhoneValid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="102" assertions="1" time="0.000557"/>
+    <testcase name="testValidatePhoneInvalid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="114" assertions="1" time="0.000430"/>
+    <testcase name="testValidateDateRangeValid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="126" assertions="1" time="0.000363"/>
+    <testcase name="testValidateDateRangeInvalid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="139" assertions="1" time="0.000247"/>
+    <testcase name="testValidateGuestsValid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="152" assertions="1" time="0.000232"/>
+    <testcase name="testValidateGuestsInvalid" class="TestFormValidator" classname="TestFormValidator" file="C:\xampp\htdocs\scd\tests\TestFormValidator.php" line="164" assertions="1" time="0.000223"/>
+  </testsuite>
+</testsuites>
